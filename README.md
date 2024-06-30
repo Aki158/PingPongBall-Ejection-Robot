@@ -6,10 +6,17 @@
 
 ## ✨デモ
 
-### ロボット全体の動き
+### ライントレース/ピンポン玉の刈り取り/射出
 
+https://github.com/Aki158/PingPongBall-Ejection-Robot/assets/119317071/36c5b2b5-dad1-40c4-b74a-91a31d718540
 
+### ピンポン玉の刈り取り
 
+https://github.com/Aki158/PingPongBall-Ejection-Robot/assets/119317071/46eab8cc-f08f-46bb-ae0f-9d8ebdd60cb5
+
+### ピンポン玉の射出
+
+https://github.com/Aki158/PingPongBall-Ejection-Robot/assets/119317071/fafe850c-1ac0-4555-955f-98032579c705
 
 ## 📝説明
 
